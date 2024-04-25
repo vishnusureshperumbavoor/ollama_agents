@@ -11,21 +11,13 @@ Creating autonomous agents using Ollama, CrewAI and mistral
 * Python
 
 ## How to set up
-Open terminal
+Clone the repo & open folder
 ```sh
-git clone https://github.com/vishnusureshperumbavoor/ollama_agents.git
-```
-Open in Visual Studio Code 
-```
-code social-app
-```
-Install python libraries
-```
 pip install -r requirements.txt
 ```
 Run
 ```
-python3 app.py
+python app.py
 ```
 
 ## Contact
